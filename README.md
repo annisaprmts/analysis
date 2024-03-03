@@ -4,9 +4,16 @@
 ## Proyek Akhir Analisis Data
 Repository ini berisi proyek akhir Analisis Data pada platform belajar online Dicoding.
 
-[Dashboard Saya!](https://annisa-project-dicoding.streamlit.app/)
+[Kunjungi Dashboard Saya!](https://annisa-project-dicoding.streamlit.app/)
 
 ## Deskripsi
 Repository ini bertujuan untuk membentuk dashboard yang berisi beberapa informasi dari dataset e-commerce public dataset yang ditampilkan dalam bentuk visualisasi.
 
-
+## Struktur Direktori
+- /data: Folder ini berisi kumpulan data yang dipakai dalam analisis data dalam format csv.
+- /Proyek_Analisis_Data_E_Commerce_Dataset.ipynb: File yang digunakan untuk analisis data.
+- /all_df.csv: File ini merupakan hasil merge kumpulan data setelah dilakukan analisis data.
+- /dashboard.py: File ini digunakan dalam membentuk dashboard pada streamlit.
+- /mylogo.png: Logo e-commerce yang telah dibuat.
+- /requirements.txt: Berkas ini berisi kumpulan library yang dipakai dalam analisis.
+- /url.txt: Berkas ini berisi file dashboard yang dibuat menggunakan streamlit.
