@@ -17,5 +17,12 @@ Repository ini bertujuan untuk membentuk dashboard yang berisi beberapa informas
 - /requirements.txt: Berkas ini berisi kumpulan library yang dipakai dalam analisis.
 - /url.txt: Berkas ini berisi file dashboard yang dibuat menggunakan streamlit.
 
+## Instalasi
+1. Clone repository ke komputer lokal Anda menggunakan perintah berikut:
+```
+git clone https://github.com/Mazwan98/dicoding.git
+```
+3. 
+
 
 
