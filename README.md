@@ -2,7 +2,7 @@
 Repository ini berisi proyek akhir Analisis Data pada platform belajar online Dicoding.
 <img src="https://raw.githubusercontent.com/annisaprmts/analysis/master/mylogo.png" alt="Logo" width="200">
 
-[Kunjungi Dashboard Saya!](https://annisa-project-dicoding.streamlit.app/)
+[Kunjungi Dashboard Saya!](https://annisa-data-analysis.streamlit.app/)
 
 ## Deskripsi
 Repository ini bertujuan untuk membentuk dashboard yang berisi beberapa informasi dari dataset e-commerce public dataset yang ditampilkan dalam bentuk visualisasi.
@@ -31,8 +31,8 @@ Repository ini bertujuan untuk membentuk dashboard yang berisi beberapa informas
    pip install -r requirements.txt
    ```
 ## Data Analysis
-1. Data Wrangling: Script data wrangling untuk gathering, assesing, dan cleaning data terdapat di file [Proyek_Analisis_Data_E_Commerce_Dataset.ipynb](https://github.com/annisaprmts/analysis/master/Proyek_Analisis_Data_E_Commerce_Dataset.ipynb)
-2. Exploratory Data Analysis: Script exploratory data analysis terdapat di file [Proyek_Analisis_Data_E_Commerce_Dataset.ipynb](https://github.com/annisaprmts/analysis/master/Proyek_Analisis_Data_E_Commerce_Dataset.ipynb)
+1. Data Wrangling: Script data wrangling untuk gathering, assesing, dan cleaning data terdapat di file [notebook.ipynb](https://github.com/annisaprmts/analysis/master/notebook.ipynb)
+2. Exploratory Data Analysis: Script exploratory data analysis terdapat di file [notebook.ipynb](https://github.com/annisaprmts/analysis/master/notebook.ipynb)
 3. Visualization: Jalankan streamlit dashboard menggunakan perintah berikut:
    ```
    cd analysis/dashboard
