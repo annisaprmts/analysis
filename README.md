@@ -19,10 +19,19 @@ Repository ini bertujuan untuk membentuk dashboard yang berisi beberapa informas
 
 ## Instalasi
 1. Clone repository ke komputer lokal Anda menggunakan perintah berikut:
-```
-git clone https://github.com/Mazwan98/dicoding.git
-```
-3. 
+   ```
+   git clone https://github.com/annisaprmts/analysis.git
+   ```
+2. Masuk ke direktori projek
+   ```
+   cd analysis
+   ```
+3. Install library Python yang dibutuhkan menggunakan perintah berikut:
+   ```
+   pip install -r requirements.txt
+   ```
+## Data Analysis
+1. Data Wrangling: Script data wrangling untuk gathering, assesing, dan cleaning data terdapat di file [notebook.ipynb](https://github.com/annisaprmts/analysis/master/Proyek_Analisis_Data_E_Commerce_Dataset.ipynb) 
 
 
 
