@@ -1,5 +1,7 @@
 # E-Commerce Public Dataset Dashboard
+Repository ini berisi proyek akhir Analisis Data pada platform belajar online Dicoding.
 <img src="https://raw.githubusercontent.com/annisaprmts/analysis/master/mylogo.png" alt="Logo" width="200">
+[Kunjungi Dashboard Saya!](https://annisa-project-dicoding.streamlit.app/)
 
 ## Deskripsi
 Repository ini bertujuan untuk membentuk dashboard yang berisi beberapa informasi dari dataset e-commerce public dataset yang ditampilkan dalam bentuk visualisasi.
@@ -14,8 +16,5 @@ Repository ini bertujuan untuk membentuk dashboard yang berisi beberapa informas
 - /requirements.txt: Berkas ini berisi kumpulan library yang dipakai dalam analisis.
 - /url.txt: Berkas ini berisi file dashboard yang dibuat menggunakan streamlit.
 
-## Proyek Akhir Analisis Data
-Repository ini berisi proyek akhir Analisis Data pada platform belajar online Dicoding.
 
-[Kunjungi Dashboard Saya!](https://annisa-project-dicoding.streamlit.app/)
 
