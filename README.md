@@ -31,7 +31,13 @@ Repository ini bertujuan untuk membentuk dashboard yang berisi beberapa informas
    pip install -r requirements.txt
    ```
 ## Data Analysis
-1. Data Wrangling: Script data wrangling untuk gathering, assesing, dan cleaning data terdapat di file [notebook.ipynb](https://github.com/annisaprmts/analysis/master/Proyek_Analisis_Data_E_Commerce_Dataset.ipynb) 
+1. Data Wrangling: Script data wrangling untuk gathering, assesing, dan cleaning data terdapat di file [Proyek_Analisis_Data_E_Commerce_Dataset.ipynb](https://github.com/annisaprmts/analysis/master/Proyek_Analisis_Data_E_Commerce_Dataset.ipynb)
+2. Exploratory Data Analysis: Script exploratory data analysis terdapat di file [Proyek_Analisis_Data_E_Commerce_Dataset.ipynb](https://github.com/annisaprmts/analysis/master/Proyek_Analisis_Data_E_Commerce_Dataset.ipynb)
+3. Visualization: Jalankan streamlit dashboard menggunakan perintah berikut:
+   ```
+   cd analysis/dashboard
+   streamlit run dashboard.py
+   ```
 
 
 
