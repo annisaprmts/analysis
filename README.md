@@ -1,6 +1,7 @@
 # E-Commerce Public Dataset Dashboard
 Repository ini berisi proyek akhir Analisis Data pada platform belajar online Dicoding.
 <img src="https://raw.githubusercontent.com/annisaprmts/analysis/master/mylogo.png" alt="Logo" width="200">
+
 [Kunjungi Dashboard Saya!](https://annisa-project-dicoding.streamlit.app/)
 
 ## Deskripsi
