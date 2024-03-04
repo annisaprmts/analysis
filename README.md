@@ -18,4 +18,4 @@ Repository ini bertujuan untuk membentuk dashboard yang berisi beberapa informas
 Repository ini berisi proyek akhir Analisis Data pada platform belajar online Dicoding.
 
 [Kunjungi Dashboard Saya!](https://annisa-project-dicoding.streamlit.app/)
-![Preview Dashboard](https://raw.githubusercontent.com/annisaprmts/analysis/master/preview.jpg)
+
