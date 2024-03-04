@@ -1,1 +1,1 @@
-https://annisa-project-dicoding.streamlit.app/
+https://annisa-data-analysis.streamlit.app/
