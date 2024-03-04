@@ -10,7 +10,7 @@ Repository ini bertujuan untuk membentuk dashboard yang berisi beberapa informas
 ## Struktur Direktori
 - /data: Folder ini berisi kumpulan data yang dipakai dalam analisis data dalam format csv.
 - /Proyek_Analisis_Data_E_Commerce_Dataset.ipynb: File yang digunakan untuk analisis data.
-- /all_df.csv: File ini merupakan hasil merge kumpulan data setelah dilakukan analisis data.
+- /all_df.csv: File ini digunakan untuk menjalankan dashboard.
 - /dashboard.py: File ini digunakan dalam membentuk dashboard pada streamlit.
 - /mylogo.png: Logo e-commerce yang telah dibuat.
 - /previw.jpg: Preview dashboard yang telah dibuat.
